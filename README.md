@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bilal Muzaffer Köse</h1>
 <h3 align="center">Software Developer from Turkey ❤</h3>
 
+- ⭐ 1 year experienced **Software Developer**
+
+- 🔭 I’m currently working with **Spring Boot, Angular and Sql**
+
 - 💬 Ask me about **Java, Spring boot, Typescript, Angular, Devextreme**
 
 - 📫 How to reach me **bilalmuzafferkose@gmail.com**
